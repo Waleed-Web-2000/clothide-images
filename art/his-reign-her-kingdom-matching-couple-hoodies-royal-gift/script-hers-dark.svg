@@ -1,0 +1,18 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <rect x="247.2" y="152.39999999999998" width="26.4" height="68.2" fill="url(#silver)"/><rect x="247.2" y="143.6" width="5.28" height="11" fill="url(#silver)"/><rect x="257.76" y="143.6" width="5.28" height="11" fill="url(#silver)"/><rect x="268.32" y="143.6" width="5.28" height="11" fill="url(#silver)"/><rect x="326.4" y="152.39999999999998" width="26.4" height="68.2" fill="url(#silver)"/><rect x="326.4" y="143.6" width="5.28" height="11" fill="url(#silver)"/><rect x="336.96" y="143.6" width="5.28" height="11" fill="url(#silver)"/><rect x="347.52" y="143.6" width="5.28" height="11" fill="url(#silver)"/><rect x="280.2" y="126" width="39.6" height="94.6" fill="url(#silver)"/><rect x="280.2" y="117.2" width="7.919999999999999" height="11" fill="url(#silver)"/><rect x="296.04" y="117.2" width="7.919999999999999" height="11" fill="url(#silver)"/><rect x="311.88" y="117.2" width="7.919999999999999" height="11" fill="url(#silver)"/><rect x="273.6" y="176.6" width="52.8" height="44" fill="url(#silver)"/>
+        <text x="300" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="#FFFFFF">Her</text><text x="300" y="402" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#silver)">Kingdom</text>
+        <path d="M160 484 Q300 520 440 484" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

@@ -1,0 +1,25 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <text x="169.7" y="209.8" transform="rotate(-25.8 169.7 209.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">L</text><text x="211.5" y="193.4" transform="rotate(-17.2 211.5 193.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">E</text><text x="255.2" y="183.4" transform="rotate(-8.6 255.2 183.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">V</text><text x="300.0" y="180.0" transform="rotate(0.0 300.0 180.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">E</text><text x="344.8" y="183.4" transform="rotate(8.6 344.8 183.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">L</text><text x="388.5" y="193.4" transform="rotate(17.2 388.5 193.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">E</text><text x="430.3" y="209.8" transform="rotate(25.8 430.3 209.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="77" fill="#FFFFFF">D</text>
+        <rect x="249.6" y="314" width="19.2" height="24" rx="2.4" fill="url(#gold)"/><rect x="277.2" y="290" width="19.2" height="48" rx="2.4" fill="url(#gold)"/><rect x="304.8" y="266" width="19.2" height="72.00000000000001" rx="2.4" fill="url(#gold)"/><rect x="332.4" y="242" width="19.2" height="96" rx="2.4" fill="url(#gold)"/><path d="M246 284 L324 236" stroke="url(#gold)" stroke-width="6"/><path d="M328.8 230 L307.2 232.4 L324 251.6 Z" fill="url(#gold)"/>
+        <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" letter-spacing="10" fill="#FFFFFF">TOGETHER</text><rect x="190" y="440" width="220" height="6" fill="#C8102E"/></svg>
