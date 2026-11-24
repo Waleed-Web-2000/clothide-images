@@ -1,0 +1,25 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <text x="490" y="92" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">T</text><text x="490" y="150" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">O</text><text x="490" y="208" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">G</text><text x="490" y="266" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">E</text><text x="490" y="324" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">T</text><text x="490" y="382" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">H</text><text x="490" y="440" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">E</text><text x="490" y="498" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="56" fill="#1C1C1C">R</text>
+        <rect x="444" y="50" width="6" height="470" fill="url(#goldDark)"/>
+        
+    <path d="M210.2 175.1 Q260.0 158.0 309.8 175.1 L305.9 151.8 L290.3 161.1 L280.2 137.0
+    L270.1 155.7 L260.0 124.6 L249.9 155.7 L239.8 137.0 L229.7 161.1 L214.1 151.8 Z" fill="url(#goldDark)"/>
+    <path d="M211.8 178.2 Q260.0 161.1 308.2 178.2" fill="none" stroke="url(#goldDark)" stroke-width="3.8880000000000003"/>
+    <path d="M260 122.39872 C 250.04672 115.55584, 254.40127999999999 107.4688, 260 113.37856
+    C 265.59872 107.4688, 269.95328 115.55584, 260 122.39872 Z" fill="#C8102E"/>
+    <circle cx="239.8" cy="133.1" r="3.4992" fill="url(#goldDark)"/><circle cx="280.2" cy="133.1" r="3.4992" fill="url(#goldDark)"/><circle cx="214.1" cy="148.7" r="3.4992" fill="url(#goldDark)"/><circle cx="305.9" cy="148.7" r="3.4992" fill="url(#goldDark)"/>
+        <path d="M207.0 244.5 Q178.4 199.6 166.2 222.1 Q162.1 248.6 176.4 269.0 Z" fill="#D9A441"/><path d="M196.8 242.5 Q178.4 213.9 172.3 228.2 Q170.2 246.6 180.4 258.8 Z" fill="#1C1C1C" opacity="0.5"/><path d="M313.0 244.5 Q341.6 199.6 353.8 222.1 Q357.9 248.6 343.6 269.0 Z" fill="#D9A441"/><path d="M323.2 242.5 Q341.6 213.9 347.7 228.2 Q349.8 246.6 339.6 258.8 Z" fill="#1C1C1C" opacity="0.5"/><path d="M174.3 260.8 Q260.0 213.9 345.7 260.8 Q357.9 330.2 323.2 391.4 Q294.7 426.1 260.0 428.1 Q225.3 426.1 196.8 391.4 Q162.1 330.2 174.3 260.8 Z" fill="#D9A441"/><ellipse cx="260" cy="383.2" rx="46.92" ry="36.72" fill="#F7E3B0"/><path d="M200.8 297.6 Q221.2 285.3 243.7 303.7 M319.2 297.6 Q298.8 285.3 276.3 303.7" stroke="#1C1C1C" stroke-width="6.12" fill="none" stroke-linecap="round"/><path d="M204.9 320.0 Q223.3 305.7 241.6 322.0 Q223.3 332.2 204.9 320.0 Z M315.1 320.0 Q296.7 305.7 278.4 322.0 Q296.7 332.2 315.1 320.0 Z" fill="#1C1C1C"/><path d="M249.8 326.1 L245.7 354.7 M270.2 326.1 L274.3 354.7" stroke="#1C1C1C" stroke-width="3.06" opacity="0.5"/><path d="M235.5 356.7 Q260.0 348.6 284.5 356.7 Q274.3 377.1 260.0 379.2 Q245.7 377.1 235.5 356.7 Z" fill="#1C1C1C"/><path d="M260.0 379.2 L260.0 393.4 M260.0 393.4 Q241.6 407.7 229.4 395.5 M260.0 393.4 Q278.4 407.7 290.6 395.5" stroke="#1C1C1C" stroke-width="5.1" fill="none" stroke-linecap="round"/><circle cx="229.4" cy="383.2" r="3.06" fill="#1C1C1C"/><circle cx="221.2" cy="393.4" r="3.06" fill="#1C1C1C"/><circle cx="233.5" cy="399.6" r="3.06" fill="#1C1C1C"/><circle cx="290.6" cy="383.2" r="3.06" fill="#1C1C1C"/><circle cx="298.8" cy="393.4" r="3.06" fill="#1C1C1C"/><circle cx="286.5" cy="399.6" r="3.06" fill="#1C1C1C"/></svg>

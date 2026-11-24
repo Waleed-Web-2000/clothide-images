@@ -1,0 +1,23 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        
+    <path d="M248.0 112.0 L244.8 62.8 L262.4 89.2 L274.4 70.0 L287.2 89.2 L300.0 46.8 L312.8 89.2 L325.6 70.0 L337.6 89.2 L355.2 62.8 L352.0 112.0 Z" fill="url(#gold)"/>
+    <rect x="246.4" y="112.0" width="107.2" height="13.6" rx="1.6" fill="url(#gold)"/>
+    <circle cx="244.8" cy="60.4" r="4.800000000000001" fill="url(#gold)"/><circle cx="274.4" cy="67.6" r="4.800000000000001" fill="url(#gold)"/><circle cx="300.0" cy="44.4" r="4.800000000000001" fill="url(#gold)"/><circle cx="325.6" cy="67.6" r="4.800000000000001" fill="url(#gold)"/><circle cx="355.2" cy="60.4" r="4.800000000000001" fill="url(#gold)"/>
+    <path d="M272.0 114.0 L276.4 118.8 L272.0 123.6 L267.6 118.8 Z" fill="#C8102E"/><path d="M300.0 114.0 L304.4 118.8 L300.0 123.6 L295.6 118.8 Z" fill="#C8102E"/><path d="M328.0 114.0 L332.4 118.8 L328.0 123.6 L323.6 118.8 Z" fill="#C8102E"/>
+        <path d="M401.5 282.0 L433.8 307.5 L395.4 319.5 L417.7 355.4 L377.7 352.4 L387.3 394.4 L350.7 376.9 L346.5 419.9 L317.6 389.9 L300.0 428.8 L282.4 389.9 L253.5 419.9 L249.3 376.9 L212.7 394.4 L222.3 352.4 L182.3 355.4 L204.6 319.5 L166.2 307.5 L198.5 282.0 L166.2 256.5 L204.6 244.5 L182.3 208.6 L222.3 211.6 L212.7 169.6 L249.3 187.1 L253.5 144.1 L282.4 174.1 L300.0 135.2 L317.6 174.1 L346.5 144.1 L350.7 187.1 L387.3 169.6 L377.7 211.6 L417.7 208.6 L395.4 244.5 L433.8 256.5 Z" fill="url(#gold)"/><path d="M384.7 298.1 L406.7 323.9 L374.5 328.4 L387.0 360.8 L355.3 353.2 L356.8 388.2 L329.4 369.3 L319.7 402.7 L300.0 374.9 L280.3 402.7 L270.6 369.3 L243.2 388.2 L244.7 353.2 L213.0 360.8 L225.5 328.4 L193.3 323.9 L215.3 298.1 L186.5 282.0 L215.3 265.9 L193.3 240.1 L225.5 235.6 L213.0 203.2 L244.7 210.8 L243.2 175.8 L270.6 194.7 L280.3 161.3 L300.0 189.1 L319.7 161.3 L329.4 194.7 L356.8 175.8 L355.3 210.8 L387.0 203.2 L374.5 235.6 L406.7 240.1 L384.7 265.9 L413.5 282.0 Z" fill="#A9781F"/><circle cx="243.2" cy="214.9" r="20.64" fill="#E2B44C"/><circle cx="243.2" cy="216.6" r="10.32" fill="#1C1C1C" opacity="0.55"/><circle cx="356.8" cy="214.9" r="20.64" fill="#E2B44C"/><circle cx="356.8" cy="216.6" r="10.32" fill="#1C1C1C" opacity="0.55"/><path d="M227.8 232.1 Q300.0 192.6 372.2 232.1 Q382.6 290.6 353.3 342.2 Q329.2 371.4 300.0 373.2 Q270.8 371.4 246.7 342.2 Q217.4 290.6 227.8 232.1 Z" fill="#E2B44C"/><ellipse cx="300" cy="335.3" rx="39.56" ry="30.96" fill="#F7E3B0"/><path d="M250.1 263.1 Q267.3 252.8 286.2 268.2 M349.9 263.1 Q332.7 252.8 313.8 268.2" stroke="#1C1C1C" stroke-width="5.16" fill="none" stroke-linecap="round"/><path d="M253.6 282.0 Q269.0 270.0 284.5 283.7 Q269.0 292.3 253.6 282.0 Z M346.4 282.0 Q331.0 270.0 315.5 283.7 Q331.0 292.3 346.4 282.0 Z" fill="#1C1C1C"/><path d="M291.4 287.2 L288.0 311.2 M308.6 287.2 L312.0 311.2" stroke="#1C1C1C" stroke-width="2.58" opacity="0.5"/><path d="M279.4 313.0 Q300.0 306.1 320.6 313.0 Q312.0 330.2 300.0 331.9 Q288.0 330.2 279.4 313.0 Z" fill="#1C1C1C"/><path d="M300.0 331.9 L300.0 343.9 M300.0 343.9 Q284.5 356.0 274.2 345.6 M300.0 343.9 Q315.5 356.0 325.8 345.6" stroke="#1C1C1C" stroke-width="4.3" fill="none" stroke-linecap="round"/><circle cx="274.2" cy="335.3" r="2.58" fill="#1C1C1C"/><circle cx="267.3" cy="343.9" r="2.58" fill="#1C1C1C"/><circle cx="277.6" cy="349.1" r="2.58" fill="#1C1C1C"/><circle cx="325.8" cy="335.3" r="2.58" fill="#1C1C1C"/><circle cx="332.7" cy="343.9" r="2.58" fill="#1C1C1C"/><circle cx="322.4" cy="349.1" r="2.58" fill="#1C1C1C"/>
+        <text x="300" y="470" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" letter-spacing="14" fill="#FFFFFF">HER</text>
+        <text x="300" y="560" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="92" letter-spacing="6" fill="url(#gold)">KING</text></svg>
