@@ -1,0 +1,18 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#C8102E"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        <line x1="319.2" y1="214" x2="330.72" y2="214" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="316.62768775266125" y1="223.6" x2="326.60430040425797" y2="229.35999999999999" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="309.6" y1="230.62768775266122" x2="315.36" y2="240.60430040425794" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="300" y1="233.2" x2="300" y2="244.72" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="290.4" y1="230.62768775266122" x2="284.64" y2="240.60430040425797" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="283.37231224733875" y1="223.6" x2="273.39569959574203" y2="229.35999999999999" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="280.8" y1="214" x2="269.28" y2="214" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="283.37231224733875" y1="204.4" x2="273.39569959574203" y2="198.64000000000001" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="290.4" y1="197.37231224733878" x2="284.64" y2="187.39569959574206" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="300" y1="194.8" x2="300" y2="183.28" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="309.6" y1="197.37231224733878" x2="315.36" y2="187.39569959574206" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="316.62768775266125" y1="204.39999999999998" x2="326.60430040425797" y2="198.64" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><circle cx="300" cy="214" r="14.08" fill="#FFFFFF"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="60" letter-spacing="3" fill="#FFFFFF">EARLY BIRD</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">TEAM</text></svg>

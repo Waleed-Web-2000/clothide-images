@@ -1,0 +1,22 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M225.2 136.4 Q225.2 71.8 300 71.8 Q374.8 71.8 374.8 136.4 Z" fill="url(#gold)"/>
+    <rect x="218.4" y="146.6" width="163.2" height="20.4" rx="8.5" fill="url(#gold)"/>
+    <rect x="225.2" y="177.2" width="149.6" height="13.6" fill="#1C1C1C" opacity="0.4"/>
+    <path d="M225.2 197.6 H374.8 Q374.8 224.8 351 224.8 H249 Q225.2 224.8 225.2 197.6 Z" fill="url(#gold)"/>
+        
+        <text x="300" y="380" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="120" letter-spacing="4" fill="#FFFFFF">BURGER</text>
+        </svg>

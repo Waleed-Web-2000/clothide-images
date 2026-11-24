@@ -1,0 +1,22 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#1C1C1C"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        
+    <path d="M280.8 185.2 H319.2 V207.6 Q319.2 225.52 300 226.8 Q280.8 225.52 280.8 207.6 Z" fill="#FFFFFF"/>
+    <path d="M280.8 190.96 H270.56 Q270.56 212.72 284.64 215.28 M319.2 190.96 H329.44 Q329.44 212.72 315.36 215.28" fill="none" stroke="#FFFFFF" stroke-width="3.84"/>
+    <rect x="296.16" y="225.52" width="7.68" height="10.24" fill="#FFFFFF"/>
+    <rect x="284.64" y="235.76" width="30.72" height="7.68" rx="1.92" fill="#FFFFFF"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="84" letter-spacing="3" fill="#FFFFFF">I WON</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">PLAYER 2</text></svg>
