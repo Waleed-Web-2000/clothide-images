@@ -1,0 +1,19 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <line x1="252" y1="161.12" x2="338.4" y2="122.72" stroke="url(#silver)" stroke-width="4.800000000000001"/><path d="M348 118.88 L328.8 116.96000000000001 L338.4 132.32 Z" fill="url(#silver)"/><path d="M252 161.12 l-7.68 -9.600000000000001 M257.76 159.2 l-7.68 -9.600000000000001 M252 161.12 l-1.92 11.52 M257.76 159.2 l-1.92 11.52" stroke="url(#silver)" stroke-width="3.3600000000000003"/><path d="M298.08 162.848 C 264.288 139.616, 279.072 112.16, 298.08 132.224
+    C 317.08799999999997 112.16, 331.87199999999996 139.616, 298.08 162.848 Z" fill="url(#silver)"/>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="#FFFFFF">Be still</text><text x="300" y="412" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#silver)">My heart</text>
+        <path d="M160 494 Q300 530 440 494" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

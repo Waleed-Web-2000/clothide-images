@@ -1,0 +1,20 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M235.4 190.8 Q249 82 334 88.80000000000001 Q371.4 99 361.2 146.6 L351 190.8 Z" fill="#C8102E"/>
+    <rect x="221.8" y="184" width="153" height="30.599999999999998" rx="15.299999999999999" fill="#FFFFFF"/><circle cx="364.6" cy="146.6" r="17" fill="#FFFFFF"/>
+        <text x="300" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" letter-spacing="14" fill="#FFFFFF">FA LA</text>
+        <text x="300" y="410" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="120" letter-spacing="4" fill="#FFFFFF">LA LA</text>
+        </svg>

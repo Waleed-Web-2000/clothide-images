@@ -1,0 +1,21 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M300 65 L340.8 122.8 H320.4 L361.2 173.8 H334 L378.2 211.2 H221.8 L266 173.8 H238.8 L279.6 122.8 H259.2 Z" fill="url(#goldDark)"/>
+    <rect x="289.8" y="211.2" width="20.4" height="23.8" fill="url(#goldDark)"/>
+    <circle cx="283" cy="143.2" r="6.8" fill="#FFFFFF"/><circle cx="323.8" cy="184" r="6.8" fill="#FFFFFF"/><circle cx="266" cy="194.2" r="6.8" fill="#FFFFFF"/><circle cx="310.2" cy="102.4" r="6.8" fill="#FFFFFF"/>
+        
+        <text x="300" y="380" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="120" letter-spacing="4" fill="#1C1C1C">GRUMPY</text>
+        </svg>

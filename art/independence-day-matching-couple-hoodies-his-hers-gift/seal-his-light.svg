@@ -1,0 +1,39 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <circle cx="300" cy="300" r="250" fill="none" stroke="url(#goldDark)" stroke-width="10"/>
+        <circle cx="300" cy="300" r="176" fill="none" stroke="url(#goldDark)" stroke-width="4"/>
+        <text x="239.2" y="94.8" transform="rotate(-16.5 239.2 94.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="42" fill="url(#goldDark)">U</text><text x="300.0" y="86.0" transform="rotate(0.0 300.0 86.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="42" fill="url(#goldDark)">S</text><text x="360.8" y="94.8" transform="rotate(16.5 360.8 94.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="42" fill="url(#goldDark)">A</text>
+        <text x="114.7" y="407.0" transform="rotate(60.0 114.7 407.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">E</text><text x="136.1" y="437.6" transform="rotate(50.0 136.1 437.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">S</text><text x="162.4" y="463.9" transform="rotate(40.0 162.4 463.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">T</text><text x="193.0" y="485.3" transform="rotate(30.0 193.0 485.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">.</text><text x="226.8" y="501.1" transform="rotate(20.0 226.8 501.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">&#160;</text><text x="262.8" y="510.7" transform="rotate(10.0 262.8 510.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">T</text><text x="300.0" y="514.0" transform="rotate(0.0 300.0 514.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">O</text><text x="337.2" y="510.7" transform="rotate(-10.0 337.2 510.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">G</text><text x="373.2" y="501.1" transform="rotate(-20.0 373.2 501.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">E</text><text x="407.0" y="485.3" transform="rotate(-30.0 407.0 485.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">T</text><text x="437.6" y="463.9" transform="rotate(-40.0 437.6 463.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">H</text><text x="463.9" y="437.6" transform="rotate(-50.0 463.9 437.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">E</text><text x="485.3" y="407.0" transform="rotate(-60.0 485.3 407.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">R</text>
+        <text x="88" y="312" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#C8102E">★</text>
+        <text x="512" y="312" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#C8102E">★</text>
+        <line x1="316.8" y1="262" x2="357.6" y2="262" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="363.6" cy="262" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="314.54922678357855" y1="270.4" x2="337.4122974434878" y2="283.6" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="342.6084498661944" cy="286.6" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="308.4" y1="276.54922678357855" x2="328.8" y2="311.8830632579837" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="331.8" cy="317.0792156806903" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="300" y1="278.8" x2="300" y2="305.2" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="300" cy="311.2" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="291.6" y1="276.54922678357855" x2="271.20000000000005" y2="311.8830632579837" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="268.20000000000005" cy="317.0792156806903" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="285.45077321642145" y1="270.4" x2="262.5877025565122" y2="283.6" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="257.3915501338056" cy="286.6" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="283.2" y1="262" x2="242.4" y2="262" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="236.4" cy="262" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="285.45077321642145" y1="253.6" x2="262.5877025565122" y2="240.4" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="257.3915501338056" cy="237.4" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="291.59999999999997" y1="247.45077321642142" x2="271.2" y2="212.11693674201635" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="268.2" cy="206.92078431930972" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="300" y1="245.2" x2="300" y2="218.8" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="300" cy="212.8" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="308.4" y1="247.45077321642142" x2="328.8" y2="212.11693674201635" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="331.8" cy="206.92078431930972" r="3.5999999999999996" fill="url(#goldDark)"/><line x1="314.54922678357855" y1="253.6" x2="337.4122974434877" y2="240.39999999999998" stroke="url(#goldDark)" stroke-width="6" stroke-linecap="round"/><circle cx="342.60844986619435" cy="237.39999999999998" r="3.5999999999999996" fill="url(#goldDark)"/>
+        <text x="300" y="392" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="60" fill="#1C1C1C">HIS</text></svg>
