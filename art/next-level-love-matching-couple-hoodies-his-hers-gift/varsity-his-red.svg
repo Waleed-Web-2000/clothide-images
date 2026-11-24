@@ -1,0 +1,26 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <text x="154.6" y="217.6" transform="rotate(-29.0 154.6 217.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">L</text><text x="193.9" y="199.4" transform="rotate(-20.7 193.9 199.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">E</text><text x="235.4" y="187.0" transform="rotate(-12.4 235.4 187.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">V</text><text x="278.3" y="180.8" transform="rotate(-4.1 278.3 180.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">E</text><text x="321.7" y="180.8" transform="rotate(4.1 321.7 180.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">L</text><text x="364.6" y="187.0" transform="rotate(12.4 364.6 187.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">&#160;</text><text x="406.1" y="199.4" transform="rotate(20.7 406.1 199.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">U</text><text x="445.4" y="217.6" transform="rotate(29.0 445.4 217.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="68" fill="#FFFFFF">P</text>
+        <rect x="249.6" y="314" width="19.2" height="24" rx="2.4" fill="url(#gold)"/><rect x="277.2" y="290" width="19.2" height="48" rx="2.4" fill="url(#gold)"/><rect x="304.8" y="266" width="19.2" height="72.00000000000001" rx="2.4" fill="url(#gold)"/><rect x="332.4" y="242" width="19.2" height="96" rx="2.4" fill="url(#gold)"/><path d="M246 284 L324 236" stroke="url(#gold)" stroke-width="6"/><path d="M328.8 230 L307.2 232.4 L324 251.6 Z" fill="url(#gold)"/>
+        <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" letter-spacing="10" fill="#FFFFFF">NEXT LEVEL</text><rect x="190" y="440" width="220" height="6" fill="#FFFFFF"/></svg>

@@ -1,0 +1,19 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <rect x="228.60000000000002" y="184" width="27.2" height="34" rx="3.4" fill="url(#gold)"/><rect x="267.70000000000005" y="150" width="27.2" height="68" rx="3.4" fill="url(#gold)"/><rect x="306.8" y="115.99999999999999" width="27.2" height="102.00000000000001" rx="3.4" fill="url(#gold)"/><rect x="345.90000000000003" y="82" width="27.2" height="136" rx="3.4" fill="url(#gold)"/><path d="M223.5 141.5 L334 73.5" stroke="url(#gold)" stroke-width="8.5"/><path d="M340.8 65 L310.2 68.4 L334 95.6 Z" fill="url(#gold)"/>
+        <text x="300" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" letter-spacing="14" fill="#FFFFFF">PLAYER 1</text>
+        <text x="300" y="378" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="80" letter-spacing="4" fill="#FFFFFF">NEXT LEVEL</text>
+        <rect x="170" y="408" width="260" height="5" fill="#FFFFFF"/><text x="300" y="462" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" letter-spacing="10" fill="#FFFFFF">UNLOCKED</text></svg>
