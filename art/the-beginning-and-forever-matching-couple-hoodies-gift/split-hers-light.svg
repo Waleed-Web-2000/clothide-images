@@ -1,0 +1,19 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M300 150 C 266 99, 215 99, 215 150 C 215 201, 266 201, 300 150 C 334 99, 385 99, 385 150 C 385 201, 334 201, 300 150 Z" fill="none" stroke="url(#silverDark)" stroke-width="15.299999999999999"/>
+        <text x="300" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" letter-spacing="14" fill="#1C1C1C">AND</text>
+        <text x="300" y="405" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="114" letter-spacing="4" fill="#1C1C1C">FOREVER</text>
+        </svg>
