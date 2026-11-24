@@ -13,7 +13,7 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs>
-        <circle cx="300" cy="170" r="50.6" fill="url(#silver)"/><circle cx="300" cy="170" r="40.7" fill="none" stroke="#1C1C1C" stroke-width="3.3" opacity="0.5"/>
-    <text x="300" y="192" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="61.60000000000001" fill="#1C1C1C" opacity="0.7">$</text>
-        <text x="300" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="#FFFFFF">Heart of</text><text x="300" y="402" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#silver)">Gold</text>
-        <path d="M160 484 Q300 520 440 484" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/></svg>
+        <circle cx="300" cy="140" r="44.160000000000004" fill="url(#silver)"/><circle cx="300" cy="140" r="35.519999999999996" fill="none" stroke="#1C1C1C" stroke-width="2.88" opacity="0.5"/>
+    <text x="300" y="159.2" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="53.760000000000005" fill="#1C1C1C" opacity="0.7">$</text>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="#FFFFFF">Heart of</text><text x="300" y="412" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#silver)">Gold</text>
+        <path d="M160 494 Q300 530 440 494" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/></svg>

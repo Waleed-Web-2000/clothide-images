@@ -13,7 +13,7 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs>
-        <rect x="294.5" y="112.8" width="11" height="28.6" fill="url(#gold)"/><rect x="285.7" y="121.6" width="28.6" height="9.9" fill="url(#gold)"/>
-       <path d="M278 145.8 H322 L315.4 203 H284.6 Z" fill="url(#gold)"/><rect x="267" y="203" width="66" height="17.6" rx="4.4" fill="url(#gold)"/>
-        <text x="300" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="#FFFFFF">My Smartest</text><text x="300" y="378" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="url(#gold)">Move</text>
-        <path d="M160 436 Q300 472 440 436" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>
+        <rect x="295.2" y="90.08" width="9.600000000000001" height="24.96" fill="url(#gold)"/><rect x="287.52" y="97.75999999999999" width="24.96" height="8.64" fill="url(#gold)"/>
+       <path d="M280.8 118.88 H319.2 L313.44 168.8 H286.56 Z" fill="url(#gold)"/><rect x="271.2" y="168.8" width="57.599999999999994" height="15.36" rx="3.84" fill="url(#gold)"/>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="#FFFFFF">My Smartest</text><text x="300" y="388" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="url(#gold)">Move</text>
+        <path d="M160 446 Q300 482 440 446" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

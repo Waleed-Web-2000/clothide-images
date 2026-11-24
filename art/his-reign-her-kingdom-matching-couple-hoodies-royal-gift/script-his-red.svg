@@ -14,9 +14,9 @@
     </linearGradient>
   </defs>
         
-    <path d="M224.7 219.5 L220.1 148.3 L245.6 186.5 L262.9 158.7 L281.5 186.5 L300.0 125.1 L318.5 186.5 L337.1 158.7 L354.4 186.5 L379.9 148.3 L375.3 219.5 Z" fill="url(#gold)"/>
-    <rect x="222.4" y="219.5" width="155.2" height="19.7" rx="2.3157894736842106" fill="url(#gold)"/>
-    <circle cx="220.1" cy="144.8" r="6.947368421052632" fill="url(#gold)"/><circle cx="262.9" cy="155.2" r="6.947368421052632" fill="url(#gold)"/><circle cx="300.0" cy="121.7" r="6.947368421052632" fill="url(#gold)"/><circle cx="337.1" cy="155.2" r="6.947368421052632" fill="url(#gold)"/><circle cx="379.9" cy="144.8" r="6.947368421052632" fill="url(#gold)"/>
-    <path d="M259.5 222.4 L265.8 229.3 L259.5 236.3 L253.1 229.3 Z" fill="#1C1C1C"/><path d="M300.0 222.4 L306.4 229.3 L300.0 236.3 L293.6 229.3 Z" fill="#1C1C1C"/><path d="M340.5 222.4 L346.9 229.3 L340.5 236.3 L334.2 229.3 Z" fill="#1C1C1C"/>
-        <text x="300" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="#FFFFFF">His</text><text x="300" y="402" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#gold)">Reign</text>
-        <path d="M160 484 Q300 520 440 484" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/></svg>
+    <path d="M234.3 183.2 L230.3 121.1 L252.5 154.4 L267.7 130.1 L283.8 154.4 L300.0 100.8 L316.2 154.4 L332.3 130.1 L347.5 154.4 L369.7 121.1 L365.7 183.2 Z" fill="url(#gold)"/>
+    <rect x="232.3" y="183.2" width="135.4" height="17.2" rx="2.0210526315789474" fill="url(#gold)"/>
+    <circle cx="230.3" cy="118.0" r="6.063157894736842" fill="url(#gold)"/><circle cx="267.7" cy="127.1" r="6.063157894736842" fill="url(#gold)"/><circle cx="300.0" cy="97.8" r="6.063157894736842" fill="url(#gold)"/><circle cx="332.3" cy="127.1" r="6.063157894736842" fill="url(#gold)"/><circle cx="369.7" cy="118.0" r="6.063157894736842" fill="url(#gold)"/>
+    <path d="M264.6 185.7 L270.2 191.8 L264.6 197.9 L259.1 191.8 Z" fill="#1C1C1C"/><path d="M300.0 185.7 L305.6 191.8 L300.0 197.9 L294.4 191.8 Z" fill="#1C1C1C"/><path d="M335.4 185.7 L340.9 191.8 L335.4 197.9 L329.8 191.8 Z" fill="#1C1C1C"/>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="#FFFFFF">His</text><text x="300" y="412" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#gold)">Reign</text>
+        <path d="M160 494 Q300 530 440 494" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/></svg>

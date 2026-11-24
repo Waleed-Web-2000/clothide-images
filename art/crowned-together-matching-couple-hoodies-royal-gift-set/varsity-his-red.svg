@@ -13,11 +13,11 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs>
-        <text x="217.3" y="191.6" transform="rotate(-16.0 217.3 191.6)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="116" fill="#FFFFFF">K</text><text x="272.1" y="181.3" transform="rotate(-5.3 272.1 181.3)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="116" fill="#FFFFFF">I</text><text x="327.9" y="181.3" transform="rotate(5.3 327.9 181.3)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="116" fill="#FFFFFF">N</text><text x="382.7" y="191.6" transform="rotate(16.0 382.7 191.6)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="116" fill="#FFFFFF">G</text>
+        <text x="196.6" y="198.4" transform="rotate(-20.2 196.6 198.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">K</text><text x="264.9" y="182.1" transform="rotate(-6.7 264.9 182.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">I</text><text x="335.1" y="182.1" transform="rotate(6.7 335.1 182.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">N</text><text x="403.4" y="198.4" transform="rotate(20.2 403.4 198.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">G</text>
         
     <path d="M217.9 344.0 L212.8 266.3 L240.6 308.0 L259.6 277.7 L279.8 308.0 L300.0 241.1 L320.2 308.0 L340.4 277.7 L359.4 308.0 L387.2 266.3 L382.1 344.0 Z" fill="url(#gold)"/>
     <rect x="215.4" y="344.0" width="169.3" height="21.5" rx="2.526315789473684" fill="url(#gold)"/>

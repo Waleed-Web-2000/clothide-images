@@ -13,7 +13,7 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#1C1C1C"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
-        <path d="M300 266.58 C 226.07999999999998 215.76, 258.42 155.7, 300 199.59
-    C 341.58 155.7, 373.92 215.76, 300 266.58 Z" fill="#FFFFFF"/>
-        <text x="300" y="330" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="75" letter-spacing="3" fill="#FFFFFF">PLAYER 2</text>
-        <text x="300" y="386" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">LOVE</text></svg>
+        <path d="M300 238.192 C 256.992 208.624, 275.808 173.68, 300 199.216
+    C 324.192 173.68, 343.008 208.624, 300 238.192 Z" fill="#FFFFFF"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="75" letter-spacing="3" fill="#FFFFFF">PLAYER 2</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">LOVE</text></svg>

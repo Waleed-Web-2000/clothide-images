@@ -13,7 +13,7 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs>
-        <circle cx="280.2" cy="123.80000000000001" r="5.5" fill="url(#silver)"/><circle cx="293.4" cy="123.80000000000001" r="5.5" fill="url(#silver)"/><circle cx="306.6" cy="123.80000000000001" r="5.5" fill="url(#silver)"/><circle cx="319.8" cy="123.80000000000001" r="5.5" fill="url(#silver)"/>
-       <path d="M273.6 132.6 L326.4 132.6 L315.4 203 H284.6 Z" fill="url(#silver)"/><rect x="267" y="203" width="66" height="17.6" rx="4.4" fill="url(#silver)"/>
-        <text x="300" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="#FFFFFF">My Smartest</text><text x="300" y="378" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="url(#silver)">Move</text>
-        <path d="M160 436 Q300 472 440 436" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>
+        <circle cx="282.72" cy="99.68" r="4.800000000000001" fill="url(#silver)"/><circle cx="294.24" cy="99.68" r="4.800000000000001" fill="url(#silver)"/><circle cx="305.76" cy="99.68" r="4.800000000000001" fill="url(#silver)"/><circle cx="317.28" cy="99.68" r="4.800000000000001" fill="url(#silver)"/>
+       <path d="M276.96 107.36 L323.04 107.36 L313.44 168.8 H286.56 Z" fill="url(#silver)"/><rect x="271.2" y="168.8" width="57.599999999999994" height="15.36" rx="3.84" fill="url(#silver)"/>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="#FFFFFF">My Smartest</text><text x="300" y="388" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="80" fill="url(#silver)">Move</text>
+        <path d="M160 446 Q300 482 440 446" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

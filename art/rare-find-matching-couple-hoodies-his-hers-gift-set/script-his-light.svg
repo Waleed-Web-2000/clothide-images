@@ -14,7 +14,7 @@
     </linearGradient>
   </defs>
         
-    <path d="M245 156.8 L269.2 126 L330.8 126 L355 156.8 L300 225 Z" fill="url(#goldDark)"/>
-    <path d="M245 156.8 L355 156.8 M284.6 126 L278 156.8 L300 225 L322 156.8 L315.4 126" fill="none" stroke="#FFFFFF" stroke-width="2.75" opacity="0.5"/>
-        <text x="300" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="97" fill="#1C1C1C">One</text><text x="300" y="395" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="97" fill="url(#goldDark)">Rare Find</text>
-        <path d="M160 470 Q300 506 440 470" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>
+    <path d="M252 128.48 L273.12 101.6 L326.88 101.6 L348 128.48 L300 188 Z" fill="url(#goldDark)"/>
+    <path d="M252 128.48 L348 128.48 M286.56 101.6 L280.8 128.48 L300 188 L319.2 128.48 L313.44 101.6" fill="none" stroke="#FFFFFF" stroke-width="2.4000000000000004" opacity="0.5"/>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="97" fill="#1C1C1C">One</text><text x="300" y="405" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="97" fill="url(#goldDark)">Rare Find</text>
+        <path d="M160 480 Q300 516 440 480" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

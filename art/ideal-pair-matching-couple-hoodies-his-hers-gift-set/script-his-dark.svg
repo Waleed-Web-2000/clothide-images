@@ -13,7 +13,7 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs>
-        <path d="M300 211.57999999999998 C 226.07999999999998 160.76, 258.42 100.7, 300 144.59
-    C 341.58 100.7, 373.92 160.76, 300 211.57999999999998 Z" fill="url(#gold)"/>
+        <path d="M300 176.288 C 235.488 131.936, 263.712 79.52, 300 117.824
+    C 336.288 79.52, 364.512 131.936, 300 176.288 Z" fill="url(#gold)"/>
         <text x="300" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="104" fill="url(#gold)">Ideal</text>
         <path d="M160 412 Q300 448 440 412" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

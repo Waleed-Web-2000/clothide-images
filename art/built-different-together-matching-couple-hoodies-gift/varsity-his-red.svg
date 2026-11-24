@@ -13,11 +13,11 @@
       <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
     </linearGradient>
   </defs>
-        <text x="201.1" y="196.8" transform="rotate(-19.3 201.1 196.8)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="103" fill="#FFFFFF">B</text><text x="249.8" y="184.2" transform="rotate(-9.6 249.8 184.2)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="103" fill="#FFFFFF">U</text><text x="300.0" y="180.0" transform="rotate(0.0 300.0 180.0)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="103" fill="#FFFFFF">I</text><text x="350.2" y="184.2" transform="rotate(9.6 350.2 184.2)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="103" fill="#FFFFFF">L</text><text x="398.9" y="196.8" transform="rotate(19.3 398.9 196.8)"
-      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="103" fill="#FFFFFF">T</text>
+        <text x="164.3" y="212.4" transform="rotate(-26.9 164.3 212.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">B</text><text x="230.2" y="188.2" transform="rotate(-13.4 230.2 188.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">U</text><text x="300.0" y="180.0" transform="rotate(0.0 300.0 180.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">I</text><text x="369.8" y="188.2" transform="rotate(13.4 369.8 188.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">L</text><text x="435.7" y="212.4" transform="rotate(26.9 435.7 212.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF">T</text>
         <path d="M312 230 L264 296 L300 296 L285.6 350 L336 275.6 L302.4 275.6 L326.4 230 Z" fill="url(#gold)"/>
         <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" letter-spacing="10" fill="#FFFFFF">TOGETHER</text><rect x="190" y="440" width="220" height="6" fill="#FFFFFF"/></svg>
