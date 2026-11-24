@@ -1,0 +1,22 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M215 156.8 L361.2 139.8 Q388.4 139.8 388.4 150 Q388.4 160.2 361.2 160.2 L215 167 Z
+    M303.4 144.9 L266 78.60000000000001 L286.4 78.60000000000001 L337.4 143.2 Z
+    M303.4 163.6 L266 228.2 L286.4 228.2 L337.4 161.9 Z
+    M228.60000000000002 158.5 L215 119.4 L228.60000000000002 119.4 L245.6 153.4 Z" fill="url(#goldDark)"/>
+        <text x="300" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" letter-spacing="14" fill="#1C1C1C">MILES</text>
+        <text x="300" y="393" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="99" letter-spacing="4" fill="#1C1C1C">TOGETHER</text>
+        </svg>

@@ -1,0 +1,21 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M252 143.84 L334.56 134.24 Q349.92 134.24 349.92 140 Q349.92 145.76 334.56 145.76 L252 149.6 Z
+    M301.92 137.12 L280.8 99.68 L292.32 99.68 L321.12 136.16 Z
+    M301.92 147.68 L280.8 184.16 L292.32 184.16 L321.12 146.72 Z
+    M259.68 144.8 L252 122.72 L259.68 122.72 L269.28 141.92 Z" fill="url(#silverDark)"/>
+        <text x="300" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="88" fill="url(#silverDark)">Wanderlust</text>
+        <path d="M160 396 Q300 432 440 396" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>

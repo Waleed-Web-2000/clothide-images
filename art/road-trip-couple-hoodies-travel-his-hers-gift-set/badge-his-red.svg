@@ -1,0 +1,18 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#1C1C1C"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        <line x1="308.96" y1="214" x2="332" y2="214" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="306.33567675943146" y1="220.33567675943146" x2="322.62741699796953" y2="236.62741699796953" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="300" y1="222.96" x2="300" y2="246" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="293.66432324056854" y1="220.33567675943146" x2="277.37258300203047" y2="236.62741699796953" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="291.04" y1="214" x2="268" y2="214" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="293.66432324056854" y1="207.66432324056854" x2="277.37258300203047" y2="191.37258300203047" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="300" y1="205.04" x2="300" y2="182" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><line x1="306.33567675943146" y1="207.66432324056854" x2="322.62741699796953" y2="191.37258300203047" stroke="#FFFFFF" stroke-width="3.84" stroke-linecap="round"/><circle cx="300" cy="214" r="20.48" fill="none" stroke="#FFFFFF" stroke-width="4.48"/><circle cx="300" cy="214" r="6.4" fill="#FFFFFF"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="84" letter-spacing="3" fill="#FFFFFF">DRIVER</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">ROAD TRIP</text></svg>
