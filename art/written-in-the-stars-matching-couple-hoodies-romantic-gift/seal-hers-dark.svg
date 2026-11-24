@@ -1,0 +1,56 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <circle cx="300" cy="300" r="250" fill="none" stroke="url(#silver)" stroke-width="10"/>
+        <circle cx="300" cy="300" r="176" fill="none" stroke="url(#silver)" stroke-width="4"/>
+        <text x="93.3" y="244.6" transform="rotate(-75.0 93.3 244.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">W</text><text x="102.9" y="216.7" transform="rotate(-67.1 102.9 216.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">R</text><text x="116.2" y="190.5" transform="rotate(-59.2 116.2 190.5)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">I</text><text x="133.0" y="166.2" transform="rotate(-51.3 133.0 166.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">T</text><text x="152.9" y="144.6" transform="rotate(-43.4 152.9 144.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">T</text><text x="175.6" y="125.8" transform="rotate(-35.5 175.6 125.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">E</text><text x="200.8" y="110.4" transform="rotate(-27.6 200.8 110.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">N</text><text x="227.7" y="98.6" transform="rotate(-19.7 227.7 98.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">&#160;</text><text x="256.1" y="90.6" transform="rotate(-11.8 256.1 90.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">I</text><text x="285.3" y="86.5" transform="rotate(-3.9 285.3 86.5)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">N</text><text x="314.7" y="86.5" transform="rotate(3.9 314.7 86.5)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">&#160;</text><text x="343.9" y="90.6" transform="rotate(11.8 343.9 90.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">T</text><text x="372.3" y="98.6" transform="rotate(19.7 372.3 98.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">H</text><text x="399.2" y="110.4" transform="rotate(27.6 399.2 110.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">E</text><text x="424.4" y="125.8" transform="rotate(35.5 424.4 125.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">&#160;</text><text x="447.1" y="144.6" transform="rotate(43.4 447.1 144.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">S</text><text x="467.0" y="166.2" transform="rotate(51.3 467.0 166.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">T</text><text x="483.8" y="190.5" transform="rotate(59.2 483.8 190.5)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">A</text><text x="497.1" y="216.7" transform="rotate(67.1 497.1 216.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">R</text><text x="506.7" y="244.6" transform="rotate(75.0 506.7 244.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="34" fill="url(#silver)">S</text>
+        <text x="114.7" y="407.0" transform="rotate(60.0 114.7 407.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">E</text><text x="136.1" y="437.6" transform="rotate(50.0 136.1 437.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">S</text><text x="162.4" y="463.9" transform="rotate(40.0 162.4 463.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">T</text><text x="193.0" y="485.3" transform="rotate(30.0 193.0 485.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">.</text><text x="226.8" y="501.1" transform="rotate(20.0 226.8 501.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">&#160;</text><text x="262.8" y="510.7" transform="rotate(10.0 262.8 510.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">T</text><text x="300.0" y="514.0" transform="rotate(0.0 300.0 514.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">O</text><text x="337.2" y="510.7" transform="rotate(-10.0 337.2 510.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">G</text><text x="373.2" y="501.1" transform="rotate(-20.0 373.2 501.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">E</text><text x="407.0" y="485.3" transform="rotate(-30.0 407.0 485.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">T</text><text x="437.6" y="463.9" transform="rotate(-40.0 437.6 463.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">H</text><text x="463.9" y="437.6" transform="rotate(-50.0 463.9 437.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">E</text><text x="485.3" y="407.0" transform="rotate(-60.0 485.3 407.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#FFFFFF">R</text>
+        <text x="88" y="312" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#C8102E">★</text>
+        <text x="512" y="312" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" fill="#C8102E">★</text>
+        <polygon points="300.0,202.0 315.5,240.6 357.1,243.5 325.1,270.2 335.3,310.5 300.0,288.4 264.7,310.5 274.9,270.2 242.9,243.5 284.5,240.6" fill="url(#silver)"/>
+        <text x="300" y="392" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="60" fill="#FFFFFF">HERS</text></svg>
