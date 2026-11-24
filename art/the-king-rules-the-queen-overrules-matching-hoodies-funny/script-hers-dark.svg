@@ -1,0 +1,24 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        
+    <path d="M230.2 199.6 Q300.0 175.6 369.8 199.6 L364.4 166.8 L342.6 179.9 L328.4 146.1
+    L314.2 172.3 L300.0 128.6 L285.8 172.3 L271.6 146.1 L257.4 179.9 L235.6 166.8 Z" fill="url(#silver)"/>
+    <path d="M232.3 203.9 Q300.0 179.9 367.7 203.9" fill="none" stroke="url(#silver)" stroke-width="5.456842105263159"/>
+    <path d="M300 125.55785263157895 C 286.0304842105263 115.95381052631579, 292.14214736842104 104.60357894736842, 300 112.89797894736843
+    C 307.85785263157896 104.60357894736842, 313.9695157894737 115.95381052631579, 300 125.55785263157895 Z" fill="#C8102E"/>
+    <circle cx="271.6" cy="140.6" r="4.911157894736843" fill="url(#silver)"/><circle cx="328.4" cy="140.6" r="4.911157894736843" fill="url(#silver)"/><circle cx="235.6" cy="162.5" r="4.911157894736843" fill="url(#silver)"/><circle cx="364.4" cy="162.5" r="4.911157894736843" fill="url(#silver)"/>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="97" fill="#FFFFFF">The Queen</text><text x="300" y="405" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="97" fill="url(#silver)">Overrules</text>
+        <path d="M160 480 Q300 516 440 480" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/></svg>
