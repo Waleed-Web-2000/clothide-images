@@ -1,0 +1,20 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <path d="M300 129.6 C 245.6 92.2, 269.4 48, 300 80.3
+    C 330.6 48, 354.4 92.2, 300 129.6 Z" fill="url(#gold)"/><rect x="294.05" y="119.4" width="11.9" height="112.2" fill="url(#gold)"/><rect x="300" y="197.6" width="27.2" height="10.2" fill="url(#gold)"/><rect x="300" y="218" width="20.4" height="10.2" fill="url(#gold)"/>
+        
+        <text x="300" y="380" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="120" letter-spacing="4" fill="#FFFFFF">STOLEN</text>
+        </svg>

@@ -1,0 +1,19 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#1C1C1C"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        <path d="M270.56 212.72 L300 184.56 L329.44 212.72 L323.04 212.72 V242.16 H276.96 V212.72 Z" fill="#FFFFFF"/><path d="M300 229.168 C 286.688 220.01600000000002, 292.512 209.20000000000002, 300 217.104
+    C 307.488 209.20000000000002, 313.312 220.01600000000002, 300 229.168 Z" fill="#1C1C1C"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="84" letter-spacing="3" fill="#FFFFFF">HOME</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">IS HIM</text></svg>

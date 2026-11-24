@@ -1,0 +1,24 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#1C1C1C"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        
+    <ellipse cx="300" cy="219.12" rx="8.96" ry="16.64" fill="#FFFFFF"/>
+    <path d="M292.32 233.2 L300 246 L307.68 233.2 Z" fill="#FFFFFF"/>
+    <path d="M293.6 206.32 Q280.8 201.2 280.8 190.96" fill="none" stroke="#FFFFFF" stroke-width="3.2"/>
+    <path d="M306.4 206.32 Q319.2 201.2 319.2 190.96" fill="none" stroke="#FFFFFF" stroke-width="3.2"/>
+    <ellipse cx="279.52" cy="187.12" rx="7.68" ry="5.12" fill="#FFFFFF"/><ellipse cx="320.48" cy="187.12" rx="7.68" ry="5.12" fill="#FFFFFF"/>
+    <line x1="292.32" y1="214" x2="280.8" y2="217.84" stroke="#FFFFFF" stroke-width="1.92"/><line x1="292.32" y1="220.4" x2="280.8" y2="224.24" stroke="#FFFFFF" stroke-width="1.92"/><line x1="292.32" y1="226.8" x2="280.8" y2="230.64" stroke="#FFFFFF" stroke-width="1.92"/><line x1="307.68" y1="214" x2="319.2" y2="217.84" stroke="#FFFFFF" stroke-width="1.92"/><line x1="307.68" y1="220.4" x2="319.2" y2="224.24" stroke="#FFFFFF" stroke-width="1.92"/><line x1="307.68" y1="226.8" x2="319.2" y2="230.64" stroke="#FFFFFF" stroke-width="1.92"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="75" letter-spacing="3" fill="#FFFFFF">LOBSTERS</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">FOR LIFE</text></svg>
