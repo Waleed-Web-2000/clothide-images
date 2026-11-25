@@ -1,0 +1,30 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <text x="110.7" y="247.2" transform="rotate(-39.1 110.7 247.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">F</text><text x="144.2" y="223.6" transform="rotate(-31.3 144.2 223.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">U</text><text x="180.5" y="204.8" transform="rotate(-23.5 180.5 204.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">R</text><text x="219.1" y="191.1" transform="rotate(-15.6 219.1 191.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">&#160;</text><text x="259.2" y="182.8" transform="rotate(-7.8 259.2 182.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">P</text><text x="300.0" y="180.0" transform="rotate(0.0 300.0 180.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">A</text><text x="340.8" y="182.8" transform="rotate(7.8 340.8 182.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">R</text><text x="380.9" y="191.1" transform="rotate(15.6 380.9 191.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">E</text><text x="419.5" y="204.8" transform="rotate(23.5 419.5 204.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">N</text><text x="455.8" y="223.6" transform="rotate(31.3 455.8 223.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">T</text><text x="489.3" y="247.2" transform="rotate(39.1 489.3 247.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="64" fill="#FFFFFF">S</text>
+        <ellipse cx="300" cy="309.2" rx="28.799999999999997" ry="24" fill="url(#silver)"/>
+    <ellipse cx="264" cy="282.8" rx="10.799999999999999" ry="14.399999999999999" fill="url(#silver)"/><ellipse cx="285.6" cy="256.4" rx="10.799999999999999" ry="14.399999999999999" fill="url(#silver)"/><ellipse cx="314.4" cy="256.4" rx="10.799999999999999" ry="14.399999999999999" fill="url(#silver)"/><ellipse cx="336" cy="282.8" rx="10.799999999999999" ry="14.399999999999999" fill="url(#silver)"/>
+        <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" letter-spacing="10" fill="#FFFFFF">EST. TOGETHER</text><rect x="190" y="440" width="220" height="6" fill="#FFFFFF"/></svg>

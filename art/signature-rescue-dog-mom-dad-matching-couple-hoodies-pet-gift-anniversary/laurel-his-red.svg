@@ -1,0 +1,19 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><ellipse cx="217.8" cy="499.5" rx="11" ry="26" transform="rotate(118.0 217.8 499.5)" fill="url(#gold)"/><ellipse cx="187.0" cy="478.6" rx="11" ry="26" transform="rotate(130.2 187.0 478.6)" fill="url(#gold)"/><ellipse cx="161.3" cy="451.7" rx="11" ry="26" transform="rotate(142.4 161.3 451.7)" fill="url(#gold)"/><ellipse cx="141.8" cy="419.9" rx="11" ry="26" transform="rotate(154.7 141.8 419.9)" fill="url(#gold)"/><ellipse cx="129.6" cy="384.7" rx="11" ry="26" transform="rotate(166.9 129.6 384.7)" fill="url(#gold)"/><ellipse cx="125.0" cy="347.7" rx="11" ry="26" transform="rotate(179.1 125.0 347.7)" fill="url(#gold)"/><ellipse cx="128.4" cy="310.6" rx="11" ry="26" transform="rotate(191.3 128.4 310.6)" fill="url(#gold)"/><ellipse cx="139.6" cy="275.1" rx="11" ry="26" transform="rotate(203.6 139.6 275.1)" fill="url(#gold)"/><ellipse cx="158.0" cy="242.7" rx="11" ry="26" transform="rotate(215.8 158.0 242.7)" fill="url(#gold)"/><ellipse cx="182.9" cy="214.9" rx="11" ry="26" transform="rotate(228.0 182.9 214.9)" fill="url(#gold)"/><ellipse cx="382.2" cy="499.5" rx="11" ry="26" transform="rotate(62.0 382.2 499.5)" fill="url(#gold)"/><ellipse cx="413.0" cy="478.6" rx="11" ry="26" transform="rotate(49.8 413.0 478.6)" fill="url(#gold)"/><ellipse cx="438.7" cy="451.7" rx="11" ry="26" transform="rotate(37.6 438.7 451.7)" fill="url(#gold)"/><ellipse cx="458.2" cy="419.9" rx="11" ry="26" transform="rotate(25.3 458.2 419.9)" fill="url(#gold)"/><ellipse cx="470.4" cy="384.7" rx="11" ry="26" transform="rotate(13.1 470.4 384.7)" fill="url(#gold)"/><ellipse cx="475.0" cy="347.7" rx="11" ry="26" transform="rotate(0.9 475.0 347.7)" fill="url(#gold)"/><ellipse cx="471.6" cy="310.6" rx="11" ry="26" transform="rotate(-11.3 471.6 310.6)" fill="url(#gold)"/><ellipse cx="460.4" cy="275.1" rx="11" ry="26" transform="rotate(-23.6 460.4 275.1)" fill="url(#gold)"/><ellipse cx="442.0" cy="242.7" rx="11" ry="26" transform="rotate(-35.8 442.0 242.7)" fill="url(#gold)"/><ellipse cx="417.1" cy="214.9" rx="11" ry="26" transform="rotate(-48.0 417.1 214.9)" fill="url(#gold)"/>
+        <ellipse cx="300" cy="194.4" rx="21.599999999999998" ry="18" fill="url(#gold)"/>
+    <ellipse cx="273" cy="174.6" rx="8.1" ry="10.799999999999999" fill="url(#gold)"/><ellipse cx="289.2" cy="154.8" rx="8.1" ry="10.799999999999999" fill="url(#gold)"/><ellipse cx="310.8" cy="154.8" rx="8.1" ry="10.799999999999999" fill="url(#gold)"/><ellipse cx="327" cy="174.6" rx="8.1" ry="10.799999999999999" fill="url(#gold)"/>
+        <text x="300" y="410" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="170" fill="#FFFFFF">D</text>
+        <text x="300" y="580" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="29" letter-spacing="12" fill="#FFFFFF">RESCUE DOG MOM DAD</text></svg>
