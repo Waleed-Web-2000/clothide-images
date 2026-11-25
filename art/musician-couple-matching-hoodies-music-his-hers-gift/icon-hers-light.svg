@@ -1,0 +1,21 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <ellipse cx="266" cy="201" rx="25.5" ry="18.7" fill="url(#silverDark)"/><ellipse cx="344.2" cy="184" rx="25.5" ry="18.7" fill="url(#silverDark)"/>
+    <rect x="286.4" y="78.60000000000001" width="8.5" height="122.39999999999999" fill="url(#silverDark)"/><rect x="364.6" y="61.599999999999994" width="8.5" height="122.39999999999999" fill="url(#silverDark)"/>
+    <path d="M286.4 78.60000000000001 L373.1 61.599999999999994 V85.4 L286.4 102.4 Z" fill="url(#silverDark)"/>
+        <text x="300" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" letter-spacing="14" fill="#1C1C1C">MUSICIAN</text>
+        <text x="300" y="410" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="120" letter-spacing="4" fill="#1C1C1C">MUSIC</text>
+        </svg>
