@@ -1,0 +1,31 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <text x="108.5" y="249.1" transform="rotate(-39.7 108.5 249.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">C</text><text x="139.0" y="226.9" transform="rotate(-32.5 139.0 226.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">O</text><text x="172.1" y="208.6" transform="rotate(-25.2 172.1 208.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">U</text><text x="207.1" y="194.7" transform="rotate(-18.0 207.1 194.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">P</text><text x="243.7" y="185.3" transform="rotate(-10.8 243.7 185.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">L</text><text x="281.1" y="180.6" transform="rotate(-3.6 281.1 180.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">E</text><text x="318.9" y="180.6" transform="rotate(3.6 318.9 180.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">&#160;</text><text x="356.3" y="185.3" transform="rotate(10.8 356.3 185.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">G</text><text x="392.9" y="194.7" transform="rotate(18.0 392.9 194.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">O</text><text x="427.9" y="208.6" transform="rotate(25.2 427.9 208.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">A</text><text x="461.0" y="226.9" transform="rotate(32.5 461.0 226.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">L</text><text x="491.5" y="249.1" transform="rotate(39.7 491.5 249.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="59" fill="#1C1C1C">S</text>
+        <rect x="264" y="285.2" width="72" height="9.6" fill="url(#goldDark)"/>
+    <rect x="252" y="261.2" width="12" height="57.599999999999994" rx="3.5999999999999996" fill="url(#goldDark)"/><rect x="240" y="270.8" width="9.6" height="38.4" rx="3.5999999999999996" fill="url(#goldDark)"/><rect x="336" y="261.2" width="12" height="57.599999999999994" rx="3.5999999999999996" fill="url(#goldDark)"/><rect x="350.4" y="270.8" width="9.6" height="38.4" rx="3.5999999999999996" fill="url(#goldDark)"/>
+        <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" letter-spacing="10" fill="#1C1C1C">HOLIDAY</text><rect x="190" y="440" width="220" height="6" fill="#C8102E"/></svg>
