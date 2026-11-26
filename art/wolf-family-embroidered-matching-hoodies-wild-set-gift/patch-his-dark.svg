@@ -1,0 +1,36 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <circle cx="300" cy="300" r="270" fill="#F4EFE6"/>
+        <circle cx="300" cy="300" r="270" fill="none" stroke="#C8102E" stroke-width="14"/>
+        <circle cx="300" cy="300" r="246" fill="none" stroke="#C8102E" stroke-width="4" stroke-dasharray="10 8"/>
+        <image href="§IMG:wolf.png§" x="120" y="130" width="360" height="360" preserveAspectRatio="xMidYMid meet"/>
+        <text x="106.3" y="213.8" transform="rotate(-66.0 106.3 213.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">W</text><text x="131.1" y="171.8" transform="rotate(-52.8 131.1 171.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">O</text><text x="164.9" y="136.7" transform="rotate(-39.6 164.9 136.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">L</text><text x="205.7" y="110.1" transform="rotate(-26.4 205.7 110.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">F</text><text x="251.6" y="93.6" transform="rotate(-13.2 251.6 93.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">&#160;</text><text x="300.0" y="88.0" transform="rotate(0.0 300.0 88.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">F</text><text x="348.4" y="93.6" transform="rotate(13.2 348.4 93.6)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">A</text><text x="394.3" y="110.1" transform="rotate(26.4 394.3 110.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">M</text><text x="435.1" y="136.7" transform="rotate(39.6 435.1 136.7)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">I</text><text x="468.9" y="171.8" transform="rotate(52.8 468.9 171.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">L</text><text x="493.7" y="213.8" transform="rotate(66.0 493.7 213.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">Y</text>
+        <text x="239.8" y="503.3" transform="rotate(16.5 239.8 503.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">H</text><text x="300.0" y="512.0" transform="rotate(0.0 300.0 512.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">I</text><text x="360.2" y="503.3" transform="rotate(-16.5 360.2 503.3)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" fill="#1C1C1C">S</text>
+        </svg>
