@@ -1,0 +1,19 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#C8102E"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        <line x1="268" y1="228.08" x2="325.6" y2="202.48" stroke="#FFFFFF" stroke-width="3.2"/><path d="M332 199.92 L319.2 198.64 L325.6 208.88 Z" fill="#FFFFFF"/><path d="M268 228.08 l-5.12 -6.4 M271.84 226.8 l-5.12 -6.4 M268 228.08 l-1.28 7.68 M271.84 226.8 l-1.28 7.68" stroke="#FFFFFF" stroke-width="2.24"/><path d="M298.72 229.232 C 276.192 213.744, 286.048 195.44, 298.72 208.816
+    C 311.39200000000005 195.44, 321.24800000000005 213.744, 298.72 229.232 Z" fill="#FFFFFF"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="§FS:84:0.56:340§" letter-spacing="3" fill="#FFFFFF">§NAME§</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="4" fill="#FFFFFF">VALENTINE'S</text></svg>

@@ -1,0 +1,31 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <circle cx="300" cy="300" r="270" fill="#F4EFE6"/>
+        <circle cx="300" cy="300" r="270" fill="none" stroke="#C8102E" stroke-width="14"/>
+        <circle cx="300" cy="300" r="246" fill="none" stroke="#C8102E" stroke-width="4" stroke-dasharray="10 8"/>
+        <image href="§IMG:dragonfly.png§" x="-480" y="130" width="360" height="360" transform="scale(-1 1)" preserveAspectRatio="xMidYMid meet"/>
+        <text x="128.5" y="175.4" transform="rotate(-54.0 128.5 175.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">D</text><text x="162.3" y="138.8" transform="rotate(-40.5 162.3 138.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">R</text><text x="203.8" y="111.1" transform="rotate(-27.0 203.8 111.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">A</text><text x="250.5" y="93.9" transform="rotate(-13.5 250.5 93.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">G</text><text x="300.0" y="88.0" transform="rotate(0.0 300.0 88.0)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">O</text><text x="349.5" y="93.9" transform="rotate(13.5 349.5 93.9)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">N</text><text x="396.2" y="111.1" transform="rotate(27.0 396.2 111.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">F</text><text x="437.7" y="138.8" transform="rotate(40.5 437.7 138.8)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">L</text><text x="471.5" y="175.4" transform="rotate(54.0 471.5 175.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="40" fill="#1C1C1C">Y</text>
+        
+        <text x="300" y="528" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="§FS:44:0.62:300§" fill="#1C1C1C">§NAME§</text></svg>

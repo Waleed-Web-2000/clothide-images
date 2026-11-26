@@ -1,0 +1,20 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs><rect x="60" y="150" width="480" height="300" rx="40" fill="#1C1C1C"/><rect x="82" y="172" width="436" height="256" rx="28" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+        <path d="M278.24 202.48 H316.64 V226.8 Q316.64 240.88 302.56 240.88 H292.32 Q278.24 240.88 278.24 226.8 Z" fill="#FFFFFF"/>
+    <path d="M316.64 208.88 Q329.44 208.88 328.16 220.4 Q326.88 229.36 315.36 229.36" fill="none" stroke="#FFFFFF" stroke-width="3.84"/>
+    <path d="M288.48 197.36 q3.84 -5.12 0 -10.24 q-3.84 -5.12 0 -10.24" fill="none" stroke="#FFFFFF" stroke-width="2.24" stroke-linecap="round"/><path d="M297.44 197.36 q3.84 -5.12 0 -10.24 q-3.84 -5.12 0 -10.24" fill="none" stroke="#FFFFFF" stroke-width="2.24" stroke-linecap="round"/><path d="M306.4 197.36 q3.84 -5.12 0 -10.24 q-3.84 -5.12 0 -10.24" fill="none" stroke="#FFFFFF" stroke-width="2.24" stroke-linecap="round"/>
+        <text x="300" y="342" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="§FS:84:0.56:340§" letter-spacing="3" fill="#FFFFFF">§NAME§</text>
+        <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" letter-spacing="8" fill="#FFFFFF">OVERTIME</text></svg>

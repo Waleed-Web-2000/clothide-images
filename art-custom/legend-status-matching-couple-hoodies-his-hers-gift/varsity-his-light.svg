@@ -1,0 +1,28 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE9A3"/><stop offset="0.45" stop-color="#E2B44C"/><stop offset="1" stop-color="#A9781F"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#C9CCD3"/><stop offset="1" stop-color="#8B8F99"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C08A1E"/><stop offset="0.5" stop-color="#8F6410"/><stop offset="1" stop-color="#5E3F06"/>
+    </linearGradient>
+    <linearGradient id="silverDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E737D"/><stop offset="0.5" stop-color="#4A4E57"/><stop offset="1" stop-color="#2A2D33"/>
+    </linearGradient>
+  </defs>
+        <text x="133.9" y="230.2" transform="rotate(-33.6 133.9 230.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#1C1C1C">L</text><text x="196.6" y="198.4" transform="rotate(-20.2 196.6 198.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#1C1C1C">E</text><text x="264.9" y="182.1" transform="rotate(-6.7 264.9 182.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#1C1C1C">G</text><text x="335.1" y="182.1" transform="rotate(6.7 335.1 182.1)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#1C1C1C">E</text><text x="403.4" y="198.4" transform="rotate(20.2 403.4 198.4)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#1C1C1C">N</text><text x="466.1" y="230.2" transform="rotate(33.6 466.1 230.2)"
+      text-anchor="middle" dominant-baseline="central" font-family="Impact, 'Arial Black', sans-serif" font-size="110" fill="#1C1C1C">D</text>
+        
+    <path d="M217.9 344.0 L212.8 266.3 L240.6 308.0 L259.6 277.7 L279.8 308.0 L300.0 241.1 L320.2 308.0 L340.4 277.7 L359.4 308.0 L387.2 266.3 L382.1 344.0 Z" fill="url(#goldDark)"/>
+    <rect x="215.4" y="344.0" width="169.3" height="21.5" rx="2.526315789473684" fill="url(#goldDark)"/>
+    <circle cx="212.8" cy="262.5" r="7.578947368421052" fill="url(#goldDark)"/><circle cx="259.6" cy="273.9" r="7.578947368421052" fill="url(#goldDark)"/><circle cx="300.0" cy="237.3" r="7.578947368421052" fill="url(#goldDark)"/><circle cx="340.4" cy="273.9" r="7.578947368421052" fill="url(#goldDark)"/><circle cx="387.2" cy="262.5" r="7.578947368421052" fill="url(#goldDark)"/>
+    <path d="M255.8 347.2 L262.7 354.7 L255.8 362.3 L248.8 354.7 Z" fill="#C8102E"/><path d="M300.0 347.2 L306.9 354.7 L300.0 362.3 L293.1 354.7 Z" fill="#C8102E"/><path d="M344.2 347.2 L351.2 354.7 L344.2 362.3 L337.3 354.7 Z" fill="#C8102E"/>
+        <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="30" letter-spacing="10" fill="#1C1C1C">§NAME§</text><rect x="190" y="440" width="220" height="6" fill="#C8102E"/></svg>
